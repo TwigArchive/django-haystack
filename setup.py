@@ -29,7 +29,7 @@ tests_require = [
 
 setup(
     name='django-haystack',
-    version='2.4.0rc1',
+    version='2.3.1-twig',
     description='Pluggable search for Django.',
     author='Daniel Lindsley',
     author_email='daniel@toastdriven.com',
